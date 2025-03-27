@@ -52,5 +52,5 @@ Digite o nome de um Pokémon e clique em "Search" para visualizar suas informaç
 
 🌍 Link do Projeto
 
-Acesse a aplicação online: POKEDEX Online
+Acesse a aplicação online: .[POKEDEX Online](https://pokedex-eta-beige-42.vercel.app)
 
